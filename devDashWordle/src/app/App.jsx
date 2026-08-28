@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { OBFUSCATED_WORDS } from './wordleWordBank';
-import WordleGrid from './components/wordleGrid';
-import Keyboard from './components/keyboard';
+import { OBFUSCATED_WORDS } from '../pages/Wordle/wordleWordBank';
+import WordleGrid from '../pages/Wordle/components/wordleGrid';
+import Keyboard from '../pages/Wordle/components/keyboard';
 
 const GAME_LAUNCH_TIME = new Date('2026-01-01').getTime();
 const MAX_GUESSES = 6;

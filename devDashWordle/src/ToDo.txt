@@ -1,0 +1,9 @@
+Abisheik Don't forget this: 
+npm run dev <-- TO start the local server to view the website
+
+Things to do for this project:
+
+1) Integrating a main menu so that users can choose between which games they want to play
+2) Figuring out how to make the puzzels consistent and constant, maybe using a API? or smth else
+2) Improving game with custom graphics and some music
+3) Validation making sure everything is properly tested and checked
